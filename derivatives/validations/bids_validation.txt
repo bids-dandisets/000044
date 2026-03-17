@@ -6,28 +6,24 @@ Valid keys in each object include `"URL"`, `"DOI"` (see
 `"Version"` with
 [string](https://www.w3schools.com/js/js_json_datatypes.asp)
 values.
- - rules.dataset_metadata.dataset_description
+
 
 	Please visit https://neurostars.org/search?q=JSON_KEY_RECOMMENDED for existing conversations about this issue.
 
 	[ERROR] TSV_VALUE_INCORRECT_TYPE A value in a column did not match the acceptable type for that column headers specified format.
 		session_id
-		/sub-Buddy/sub-Buddy_sessions.tsv - 'ses-Buddy_06272013' - rules.tabular_data.modality_agnostic.Sessions
-		/sub-Achilles/sub-Achilles_sessions.tsv - 'ses-Achilles_10252013' - rules.tabular_data.modality_agnostic.Sessions
-		/sub-Cicero/sub-Cicero_sessions.tsv - 'ses-Cicero_09012014' - rules.tabular_data.modality_agnostic.Sessions
-		/sub-Gatsby/sub-Gatsby_sessions.tsv - 'ses-Gatsby_08022013' - rules.tabular_data.modality_agnostic.Sessions
+		/sub-Buddy/sub-Buddy_sessions.tsv - 'ses-Buddy_06272013'
+		/sub-Achilles/sub-Achilles_sessions.tsv - 'ses-Achilles_10252013'
+
+		2 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=TSV_VALUE_INCORRECT_TYPE for existing conversations about this issue.
 
 	[ERROR] NOT_INCLUDED Files with such naming scheme are not part of BIDS specification. This error is most commonly caused by typos in file names that make them not BIDS compatible. Please consult the specification and make sure your files are named correctly. If this is not a file naming issue (for example when including files not yet covered by the BIDS specification) you should include a ".bidsignore" file in your dataset (see https://github.com/bids-standard/bids-validator#bidsignore for details). Please note that derived (processed) data should be placed in /derivatives folder and source data (such as DICOMS or behavioural logs in proprietary formats) should be placed in the /sourcedata folder.
 		/sub-Buddy/ses-Buddy_06272013/
 		/sub-Achilles/ses-Achilles_11012013/
-		/sub-Achilles/ses-Achilles_10252013/
-		/sub-Cicero/ses-Cicero_09012014/
-		/sub-Cicero/ses-Cicero_09172014/
-		/sub-Cicero/ses-Cicero_09102014/
-		/sub-Gatsby/ses-Gatsby_08282013/
-		/sub-Gatsby/ses-Gatsby_08022013/
+
+		6 more files with the same issue
 
 	Please visit https://neurostars.org/search?q=NOT_INCLUDED for existing conversations about this issue.
 
