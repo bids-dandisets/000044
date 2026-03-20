@@ -1,5 +1,5 @@
-participant_id	species	sex
-sub-Achilles	Rattus norvegicus domestica - Long Evans	male
-sub-Buddy	Rattus norvegicus domestica - Long Evans	male
-sub-Cicero	Rattus norvegicus domestica - Long Evans	male
-sub-Gatsby	Rattus norvegicus domestica - Long Evans	male
+participant_id	original_participant_id	species	sex
+sub-Achilles	sub-Achilles	Rattus norvegicus domestica - Long Evans	male
+sub-Buddy	sub-Buddy	Rattus norvegicus domestica - Long Evans	male
+sub-Cicero	sub-Cicero	Rattus norvegicus domestica - Long Evans	male
+sub-Gatsby	sub-Gatsby	Rattus norvegicus domestica - Long Evans	male
