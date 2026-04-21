@@ -1,0 +1,1 @@
+{"sanitization_config":{"sub_labels":false,"ses_labels":false},"sanitization_file_path":"/data/dandi/bids-dandisets/work/000044/.nwb2bids/datetime-20260421155925_sanitization.txt","original_participant_id":"Gatsby","original_session_id":"Gatsby_08282013","sanitized_participant_id":"Gatsby","sanitized_session_id":"Gatsby_08282013"}
